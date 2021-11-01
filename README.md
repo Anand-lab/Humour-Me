@@ -1,2 +1,2 @@
 # Humour-Me
-Sample skill which showcase how to use Paid Skills feature in Alexa skill.
+Demonstrate how to use new Paid Skill feature of Alexa skills to inform user to purchase skill before using functionality of skill.
