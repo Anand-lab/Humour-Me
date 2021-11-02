@@ -21,7 +21,7 @@ There are a number of different ways for you to setup your skill, depending on y
 
 ## Setup to run this demo
 
-**Important:** This sample code showcase how you can use Paid skill feature to give option for user to buy Alexa skill first before using it.
+**Important:** This sample code showcase how you can use Paid skill feature to give option for user to buy Alexa skill first before using it. Once user purchased this skill and then they can get chuk norris jokes.
 
 First you need to create Paid Skill product which can be done directly in developer console or through ASK CLI commands.
 
